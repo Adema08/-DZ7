@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.AssemblyInfo.cs
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\bin\Debug\net7.0\task 52.exe
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\bin\Debug\net7.0\task 52.deps.json
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\bin\Debug\net7.0\task 52.runtimeconfig.json
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\bin\Debug\net7.0\task 52.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\bin\Debug\net7.0\task 52.pdb
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\refint\task 52.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.pdb
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\task 52.genruntimeconfig.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# DZ7\task 52\obj\Debug\net7.0\ref\task 52.dll
